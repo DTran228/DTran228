@@ -2,11 +2,11 @@
 <h1 align="center">Hey there, I'm Duc Tran! 👋</h1>
 
 <h3 align="center">
-  Computer Science & Data Analytics @ Denison University
+  🎓 Computer Science & Data Analytics @ Denison University
 </h3>
 
 <p align="center">
-  <b>Backend Engineering • Distributed Systems • Cloud Infrastructure • Applied AI</b>
+  ⚡ Backend Engineering • Distributed Systems • Cloud • Applied AI
 </p>
 
 <p align="center">
@@ -23,151 +23,115 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🌱 A Little About Me
 
-I'm a Computer Science and Data Analytics student at
-[**Denison University**](https://denison.edu), graduating
-in May 2028.
+Hey! I'm Duc, a Computer Science & Data Analytics student at
+[**Denison University**](https://denison.edu), graduating in 2028! 🎓
 
-I enjoy building software that solves practical problems,
-especially backend services, data-intensive applications,
-and systems that need to be reliable and scalable.
+I love building things, figuring out how systems work behind
+the scenes, and turning interesting ideas into real projects. 🚀
 
-- 🎓 Studying **Computer Science & Data Analytics** at Denison University
-- 💼 Internship experience at **VTV Digital** and **FPT Information System**
-- ⚙️ Interested in **backend development, distributed systems, APIs, and cloud infrastructure**
-- 🧠 Exploring **AI-powered applications, LLM integration, and computer vision**
-- 🏀 Building projects around finance, basketball analytics, and intelligent applications
-- 🤝 Secretary of the **Vietnamese Student Association** at Denison
-- 🚀 Preparing for **Summer 2027 Software Engineering opportunities**
+- 💻 Previously interned at **VTV Digital** and **FPT Information System**
+- ⚙️ Into backend engineering, distributed systems, and cloud computing
+- 🧠 Exploring AI, LLMs, and computer vision
+- 🏀 Basketball enthusiast & occasional late-night coder
+- 🌏 Secretary of Denison's Vietnamese Student Association
+- 🎯 Looking forward to **Summer 2027 SWE opportunities!**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Toolbox
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash,html,css&theme=dark" alt="Programming Languages"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react,nodejs&theme=dark" alt="Backend and Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react,nodejs&theme=dark" alt="Frameworks"/>
 </p>
 
-**Technologies:** REST APIs, Apache Kafka, RabbitMQ, Apache Spark
+🔧 **Also working with:** REST APIs, Apache Kafka, RabbitMQ, Apache Spark
 
-### 🗄️ Databases & Cloud
+### ☁️ Cloud & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,aws,gcp,docker,linux&theme=dark" alt="Cloud and Databases"/>
 </p>
 
-**Cloud Services:** AWS EC2, S3, Lambda, Glue, Athena, Google BigQuery
+🗄️ **Cloud services:** AWS EC2, S3, Lambda, Glue, Athena, Google BigQuery
 
-### 🧠 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI and ML"/>
 </p>
 
-**Tools & Concepts:** OpenAI API, Hugging Face, LangChain,
-Retrieval-Augmented Generation (RAG), Embeddings,
-Vector Databases, Computer Vision
+🧠 **Exploring:** OpenAI API, Hugging Face, LangChain, RAG,
+Embeddings, Vector Databases, Computer Vision
 
-### 🔧 Developer Tools
+### 🧰 Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
 </p>
 
-**Additional Tools:** pytest, DBeaver, Power BI, GitHub Actions
+🛠️ **Other tools:** pytest, DBeaver, Power BI, GitHub Actions
 
 ---
 
-## 🚀 Projects I'm Building & Exploring
+## 🚀 Things I've Been Building
 
 ### 💰 Personal Finance & Investment Tracker
 
-A full-stack finance application for managing transactions,
-tracking investment portfolios, and exploring real-time
-market data.
+Making investing a little easier to understand! 📊
+A full-stack application for tracking portfolios,
+transactions, and market data.
 
-**Engineering Focus:**
-- Portfolio management and REST API development
-- Financial calculations and transaction tracking
-- Market-data caching and API reliability
-- Authentication and user-specific data access
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Redis`
 
-**Stack:** React, TypeScript, Python, PostgreSQL, Redis
+🔗 [Check it out](https://github.com/DTran228/Personal-Finance-and-Investment-Tracker)
 
-🔗 [Explore Project](https://github.com/DTran228/Personal-Finance-and-Investment-Tracker)
+### 📈 Stock Price Alert System
 
-### 📈 Stock Price Alert & Notification System
+Because nobody wants to stare at stock charts all day. 👀
+Exploring event-driven alerts, message queues,
+and serverless notifications.
 
-An event-driven application for tracking stock prices
-and delivering notifications when user-defined conditions
-are met.
+`Python` `RabbitMQ` `AWS Lambda` `PostgreSQL`
 
-**Engineering Focus:**
-- Asynchronous processing and message queues
-- Scheduled background jobs and serverless functions
-- Reliable notification delivery and duplicate prevention
-- External API integration and caching
+### 🏀 CourtVision — Basketball Analytics
 
-**Stack:** Python, RabbitMQ, AWS Lambda, PostgreSQL, Redis
+Combining two things I love: basketball and technology! 🏀
+Exploring computer vision to analyze shooting sessions
+and track performance.
 
-### 🏀 CourtVision — Basketball Performance Analytics
+`React Native` `Python` `YOLO`
 
-A mobile computer vision project exploring how recorded
-basketball sessions can be analyzed to provide shooting
-feedback and performance insights.
-
-**Engineering Focus:**
-- Object detection and ball tracking
-- Shot classification and trajectory analysis
-- Mobile application development
-- Video-based performance analytics
-
-**Stack:** React Native, Python, YOLO
-
-🔗 [Explore Project](https://github.com/DTran228/CourtVision)
+🔗 [Check it out](https://github.com/DTran228/CourtVision)
 
 ### 🤖 AI Moderation & Appeals API
 
-An exploration of AI-assisted content moderation with
-structured review and appeal workflows.
+Teaching APIs to make better decisions (and reconsider them!). 🧠
+Experimenting with LLM-based moderation and appeal workflows.
 
-**Engineering Focus:**
-- LLM API integration and content classification
-- REST API development
-- Input validation and request handling
-- Auditable decisions and appeal workflows
-
-**Stack:** Python, Flask, LLM APIs
+`Python` `Flask` `LLM APIs`
 
 ---
 
-## ⚡ Technical Interests
+## ⚡ What Gets Me Excited
 
-I'm especially interested in understanding how
-software behaves beyond the happy path — when APIs
-fail, requests arrive concurrently, data becomes
-inconsistent, or systems need to scale.
-
-Some of the areas I'm currently exploring:
-
-- **Backend Architecture:** API design, authentication, caching, and service reliability
-- **Distributed Systems:** Message queues, asynchronous processing, and fault tolerance
-- **Cloud Engineering:** Serverless computing, containers, and cloud-native applications
-- **Data Systems:** Streaming pipelines, databases, and large-scale data processing
-- **Applied AI:** LLM-powered applications, RAG, and computer vision
+- 🔧 **Backend Engineering** — APIs, caching & making things work reliably
+- ☁️ **Distributed Systems** — queues, concurrency & fault tolerance
+- 🚀 **Cloud Infrastructure** — containers, AWS & serverless applications
+- 🤖 **Applied AI** — building practical things with LLMs and computer vision
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Most Used Languages
 
 <p align="center">
   <img
@@ -178,32 +142,33 @@ Some of the areas I'm currently exploring:
 
 ---
 
-## 🌱 Beyond Coding
+## 🌎 A Bit More About Me
 
-Outside of software engineering, I enjoy basketball,
-working on personal projects, and connecting with people
-through campus organizations.
+When I'm not coding, you'll probably find me shooting hoops 🏀,
+exploring a new idea 💡, or spending time with friends.
 
-I also serve as Secretary of Denison's Vietnamese
-Student Association, helping organize cultural events
-and strengthen our campus community.
+I'm also involved with the Vietnamese Student Association
+at Denison, where I love helping bring people together
+through cultural events. 🇻🇳
 
 ---
 
-<h3 align="center">📫 Let's Connect!</h3>
+<h3 align="center">💌 Let's Connect!</h3>
 
 <p align="center">
-  I'm always happy to connect with fellow developers,
-  students, and engineers to exchange ideas and learn
-  from each other.
+  Always down to talk about tech, cool projects,
+  basketball, or just say hi! ☕
 </p>
 
 <p align="center">
   <a href="mailto:ductranzeot06@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ductran06/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-v
+
+<p align="center">
+  <i>Thanks for stopping by! Happy coding ✨</i>
+</p>
