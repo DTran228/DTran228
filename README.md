@@ -176,13 +176,6 @@ Some of the areas I'm currently exploring:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DTran228&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-</p>
-
 ---
 
 ## 🌱 Beyond Coding
