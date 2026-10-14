@@ -35,7 +35,6 @@ the scenes, and turning interesting ideas into real projects. 🚀
 - ⚙️ Into backend engineering, distributed systems, and cloud computing
 - 🧠 Exploring AI, LLMs, and computer vision
 - 🏀 Basketball enthusiast & occasional late-night coder
-- 🌏 Secretary of Denison's Vietnamese Student Association
 - 🎯 Looking forward to **Summer 2027 SWE opportunities!**
 
 ---
