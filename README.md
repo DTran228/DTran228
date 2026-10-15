@@ -92,6 +92,8 @@ transactions, and market data.
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Redis`
 
+🔗 [Check it out](https://github.com/DTran228/Personal-Finance-and-Investment-Tracker)
+
 ### 🏀 CourtVision — Basketball Analytics
 
 Combining two things I love: basketball and technology! 🏀
@@ -100,7 +102,7 @@ and track performance.
 
 `React Native` `Python` `YOLO`
 
-🔗 [Check it out](https://github.com/DTran228/Personal-Finance-and-Investment-Tracker)
+🔗 [Check it out](https://github.com/DTran228/CourtVision)
 
 ### 📈 Stock Price Alert System
 
@@ -109,8 +111,6 @@ Exploring event-driven alerts, message queues,
 and serverless notifications.
 
 `Python` `RabbitMQ` `AWS Lambda` `PostgreSQL`
-
-🔗 [Check it out](https://github.com/DTran228/CourtVision)
 
 ### 🤖 AI Moderation & Appeals API
 
