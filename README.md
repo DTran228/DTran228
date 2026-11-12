@@ -39,46 +39,56 @@ the scenes, and turning interesting ideas into real projects. 🚀
 
 ---
 
+
 ## 🛠️ My Tech Toolbox
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,rust,bash,html,css&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,rust,go,r,kotlin,dart,swift,html,css&theme=dark" alt="Programming Languages"/>
 </p>
+
+🔤 **Also working with:** Assembly, Bash
 
 ### ⚙️ Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react,nodejs&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=flask,spring,react,fastapi&theme=dark" alt="Frameworks and Backend"/>
 </p>
 
-🔧 **Also working with:** REST APIs, Apache Kafka, RabbitMQ, Apache Spark, WebAssembly, Model Context Protocol (MCP)
+🔧 **Backend & APIs:** REST APIs, Spring Boot, Flask, FastAPI
 
-### ☁️ Cloud & Databases
+### 🗄️ Data Systems & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,aws,gcp,docker,linux&theme=dark" alt="Cloud and Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,kafka,rabbitmq&theme=dark" alt="Databases and Messaging"/>
 </p>
 
-🗄️ **Cloud services:** AWS EC2, S3, Lambda, Glue, Athena, Google BigQuery
+📊 **Also working with:** SQL, Qdrant, ChromaDB, Apache Spark, Apache Parquet
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark" alt="Cloud and Infrastructure"/>
+</p>
+
+☁️ **Cloud services:** AWS EC2, SQS, Glue, Athena, Google BigQuery, Modal
 
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="AI and ML"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,huggingface&theme=dark" alt="AI and Machine Learning"/>
 </p>
 
-🧠 **Exploring:** OpenAI API, Hugging Face, LangChain, RAG,
-Embeddings, Vector Databases, Computer Vision, YOLO
+🧠 **AI/ML:** RAG, LlamaIndex, YOLO, PyTorch, MCP, LangChain, Hugging Face, Embeddings, scikit-learn
 
 ### 🧰 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,githubactions&theme=dark" alt="Developer Tools"/>
 </p>
 
-🛠️ **Other tools:** pytest, DBeaver, Power BI, GitHub Actions
+🛠️ **Other tools:** Git, CI/CD, pytest, DBeaver, Power BI
 
 ---
 
