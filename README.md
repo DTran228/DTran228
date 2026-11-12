@@ -44,7 +44,7 @@ the scenes, and turning interesting ideas into real projects. 🚀
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash,html,css&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,rust,bash,html,css&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### ⚙️ Frameworks & Backend
@@ -53,12 +53,12 @@ the scenes, and turning interesting ideas into real projects. 🚀
   <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react,nodejs&theme=dark" alt="Frameworks"/>
 </p>
 
-🔧 **Also working with:** REST APIs, Apache Kafka, RabbitMQ, Apache Spark
+🔧 **Also working with:** REST APIs, Apache Kafka, RabbitMQ, Apache Spark, WebAssembly, Model Context Protocol (MCP)
 
 ### ☁️ Cloud & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,aws,gcp,docker,linux&theme=dark" alt="Cloud and Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,aws,gcp,docker,linux&theme=dark" alt="Cloud and Databases"/>
 </p>
 
 🗄️ **Cloud services:** AWS EC2, S3, Lambda, Glue, Athena, Google BigQuery
@@ -70,7 +70,7 @@ the scenes, and turning interesting ideas into real projects. 🚀
 </p>
 
 🧠 **Exploring:** OpenAI API, Hugging Face, LangChain, RAG,
-Embeddings, Vector Databases, Computer Vision
+Embeddings, Vector Databases, Computer Vision, YOLO
 
 ### 🧰 Developer Tools
 
@@ -84,40 +84,45 @@ Embeddings, Vector Databases, Computer Vision
 
 ## 🚀 Things I've Been Building
 
-### 💰 Personal Finance & Investment Tracker
+### 🏀 CourtVision — Basketball Performance Analytics
 
-Making investing a little easier to understand! 📊
-A full-stack application for tracking portfolios,
-transactions, and market data.
+Combining basketball and computer vision! 🏀 Built a React Native app that uses YOLO to detect shots, track results, and help players review their performance.
 
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Redis`
+Tested with 5 players, cutting review time by **45%**. Optimized GPU inference to process a 90-second clip in just **28 seconds**, achieving **88% shot-detection F1** on held-out attempts.
 
-🔗 [Check it out](https://github.com/DTran228/Personal-Finance-and-Investment-Tracker)
-
-### 🏀 CourtVision — Basketball Analytics
-
-Combining two things I love: basketball and technology! 🏀
-Exploring computer vision to analyze shooting sessions
-and track performance.
-
-`React Native` `Python` `YOLO`
+`React Native` `Python` `YOLO` `Computer Vision` `GPU Inference`
 
 🔗 [Check it out](https://github.com/DTran228/CourtVision)
 
-### 📈 Stock Price Alert System
+### 🤖 MCP-Powered Research Assistant
 
-Because nobody wants to stare at stock charts all day. 👀
-Exploring event-driven alerts, message queues,
-and serverless notifications.
+Making campus life a little easier with AI! 🧠 Collaborated with 3 other student developers to build a Flask-powered assistant that recommends events based on students' interests and class schedules.
 
-`Python` `RabbitMQ` `AWS Lambda` `PostgreSQL`
+Reduced event-planning time by **30%** and integrated Python MCP with SQLite to share conversation context, preferences, and saved events across assistants.
 
-### 🤖 AI Moderation & Appeals API
+`Python` `Flask` `MCP` `SQLite` `AI Assistants`
 
-Teaching APIs to make better decisions (and reconsider them!). 🧠
-Experimenting with LLM-based moderation and appeal workflows.
+🔗 [Find the repository](https://github.com/search?q=owner%3ADTran228+MCP&type=repositories)
 
-`Python` `Flask` `LLM APIs`
+### 🧠 Browser Brain — AI-Powered Browsing History Assistant
+
+Ever remember reading something online but can't find it again? 🔎 Built a Chrome extension that makes browsing history searchable using semantic search and vector embeddings.
+
+Powered by FastAPI and Qdrant, reducing median search time from **95 to 35 seconds** in testing with 12 student researchers. Added TypeScript batching and LRU deduplication to make history ingestion more efficient.
+
+`TypeScript` `FastAPI` `Qdrant` `Chrome Extension` `Vector Search`
+
+🔗 [Find the repository](https://github.com/search?q=owner%3ADTran228+Browser&type=repositories)
+
+### 🎮 3D Graphics — Multithreaded Rendering Engine
+
+Exploring what happens behind the pixels! 🎨 Built an interactive 3D renderer using Rust and WebAssembly, with React-based scene editing, browser rasterization, and path tracing.
+
+Implemented BVH acceleration and eight-thread Rayon parallelism, reducing median render time from **96 to 7 seconds** on a 100,000-triangle scene.
+
+`Rust` `WebAssembly` `React` `Rayon` `BVH` `Ray Tracing`
+
+🔗 [Find the repository](https://github.com/search?q=owner%3ADTran228+render&type=repositories)
 
 ---
 
