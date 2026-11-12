@@ -149,7 +149,7 @@ Implemented BVH acceleration and eight-thread Rayon parallelism, reducing median
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTran228&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DTran228&theme=tokyonight"
     alt="Most Used Languages"
   />
 </p>
