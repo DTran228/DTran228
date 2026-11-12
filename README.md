@@ -102,7 +102,7 @@ Reduced event-planning time by **30%** and integrated Python MCP with SQLite to 
 
 `Python` `Flask` `MCP` `SQLite` `AI Assistants`
 
-🔗 [Find the repository](https://github.com/search?q=owner%3ADTran228+MCP&type=repositories)
+🔗 [Check it out](https://github.com/DTran228/CampusAssistant)
 
 ### 🧠 Browser Brain — AI-Powered Browsing History Assistant
 
@@ -112,7 +112,7 @@ Powered by FastAPI and Qdrant, reducing median search time from **95 to 35 secon
 
 `TypeScript` `FastAPI` `Qdrant` `Chrome Extension` `Vector Search`
 
-🔗 [Find the repository](https://github.com/search?q=owner%3ADTran228+Browser&type=repositories)
+🔗 [Check it out](https://github.com/DTran228/browser-brain)
 
 ### 🎮 3D Graphics — Multithreaded Rendering Engine
 
@@ -122,7 +122,7 @@ Implemented BVH acceleration and eight-thread Rayon parallelism, reducing median
 
 `Rust` `WebAssembly` `React` `Rayon` `BVH` `Ray Tracing`
 
-🔗 [Find the repository](https://github.com/search?q=owner%3ADTran228+render&type=repositories)
+🔗 [Check it out](https://github.com/DTran228/3D-Graphics)
 
 ---
 
